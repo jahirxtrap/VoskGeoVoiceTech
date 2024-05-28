@@ -1,4 +1,4 @@
-# Geo-Voice Tech
+# Geo.Voice-Tech
 
 ### Requerimientos
 

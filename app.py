@@ -6,7 +6,7 @@ import queue
 from engine.vosk_recog import speech_to_text
 
 # Configuración de la página
-st.set_page_config(layout="wide", page_icon="./media/logo.png", page_title="Geo-Voice Tech")
+st.set_page_config(layout="wide", page_icon="./media/logo.png", page_title="Geo.Voice-Tech")
 
 # Función de hilo para el reconocimiento de voz
 def voice_recognition_thread(q, model_path="./model/vosk-model-small-es-0.42"):
