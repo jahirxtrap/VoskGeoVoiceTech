@@ -1,6 +1,5 @@
+setuptools
+speechrecognition
+sounddevice
+wavio
 streamlit
-matplotlib
-plotly
-Pillow
-vosk
-PyAudio
